@@ -10,8 +10,12 @@ A Samsung smartwatch app that will randomly display images of animals on your wa
 * A spinner is utilized to let the operator know when the network call is taking a second or two.  Sometimes the images are high quality, or other times you get gifted with a GIF!
 * Choose between different timing settings to set the auto switch to the next photo, or set it to change on a tap or bezel spin.
 
-## Settings
+## Animals
+1) Cats
+2) Dogs
+3) Foxes
 
+## Settings
 1) Click/Tap/Bezel
 2) 1 Second
 3) 2 Seconds
