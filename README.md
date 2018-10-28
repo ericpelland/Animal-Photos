@@ -1,5 +1,5 @@
 # Watch-Animal-Photos
-![alt text](https://raw.githubusercontent.com/ericpelland/Watch-Animal-Photos/master/imgs/Screen_20181028_103208.png)
+![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103208.png)
 
 A Samsung smartwatch app that will randomly display images of animals on your watch to the settings of your choice.
 
@@ -27,11 +27,11 @@ A Samsung smartwatch app that will randomly display images of animals on your wa
 This app was created so I could learn how to create web apps that can run similar to native apps on samsung smartwatches.  The project might not be large, but it might be useful to other new watch developers.
 
 ## ScreenShots
-![alt text](https://raw.githubusercontent.com/ericpelland/Watch-Animal-Photos/master/imgs/Screen_20181028_103323.png)
-![alt text](https://raw.githubusercontent.com/ericpelland/Watch-Animal-Photos/master/imgs/Screen_20181028_103315.png)
-![alt text](https://raw.githubusercontent.com/ericpelland/Watch-Animal-Photos/master/imgs/Screen_20181028_103213.png)
-![alt text](https://raw.githubusercontent.com/ericpelland/Watch-Animal-Photos/master/imgs/Screen_20181028_103228.png)
-![alt text](https://raw.githubusercontent.com/ericpelland/Watch-Animal-Photos/master/imgs/Screen_20181028_103246.png)
+![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103323.png)
+![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103315.png)
+![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103213.png)
+![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103228.png)
+![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103246.png)
 
 ## Special Thanks
 I would like to thank the following websites for having free and open API's that I find useful for this app.
