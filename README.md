@@ -31,7 +31,6 @@ This app was created so I could learn how to create web apps that can run simila
 ![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103315.png)
 ![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103213.png)
 ![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103228.png)
-![alt text](https://raw.githubusercontent.com/ericpelland/Animal-Photos/master/imgs/Screen_20181028_103246.png)
 
 ## Special Thanks
 I would like to thank the following websites for having free and open API's that I find useful for this app.
