@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width,user-scalable=no">
+	<title>Watch Ya Self</title>
+	<link rel="stylesheet" href="lib/tau/wearable/theme/default/tau.min.css">
+	<link rel="stylesheet" media="all and (-tizen-geometric-shape: circle)" href="lib/tau/wearable/theme/default/tau.circle.min.css">
+	<!-- load theme file for your application -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<!--settingsPage View-->
+  <div class="pageContainer ui-page ui-page-active" id="main">
+	<!--Title-->
+  	<div class="ui-header">
+  		<div class="ui-title">Settings</div>
+  	</div>
+	<!--Content-->
+	<div class="ui-content">
+		<ul class="ui-listview">
+			<li><a href="timing.html" target="_self">Timing</a></li>
+		</ul>
+  	</div>
+  </div>
+	<script src="lib/tau/wearable/js/tau.min.js"></script>
+	<script src="js/circle-helper.js"></script>
+	<script src="js/app.js"></script>
+	<script src="js/lowBatteryCheck.js"></script>
+</body>
+</html>
